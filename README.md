@@ -31,6 +31,10 @@
 
 ## Quick Start
 
+### 在线使用
+直接访问：https://4454aa.github.io/conformal-disk-to-square/
+
+### 本地使用
 1. 下载或复制 `index.html`
 2. 用浏览器打开
 3. 上传图片 → 调整圆形区域 → 点击生成 → 下载结果
